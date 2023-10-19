@@ -1,4 +1,3 @@
 # Dino-Game
 
-Proiectul reprezinta o aplicatie desktop in limbajul c++, folosind mediul de dezvoltare Visual Studio.
-Jocul realizat este free runner, asemanator cu cel de la Google, cu un dinozaur care sare peste obstacole, adunand puncte. Puncatjul este semnalat printr-un scor care se incrementeaza dupa fiecare obstacol trecut.
+The project is a desktop application in the c++ language, using the Visual Studio development environment. The game made is free runner, similar to the one from Google, with a dinosaur that jumps over obstacles, collecting points. Punctuation is signaled by a score that increases after each obstacle passed.
